@@ -35,7 +35,7 @@
 | <img src="https://github.com/HighCapable/KavaRef/blob/main/img-src/icon.svg?raw=true" width = "30" height = "30" alt="LOGO"/> | [KavaRef](https://github.com/HighCapable/KavaRef) |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 
-🚀 `YukiHookAPI` 正使用 `KavaRef` 作为反射 API 强力驱动，**点击上方链接 star 这个项目**，你也可以优雅地使用它！
+🚀 YukiHookAPI 正使用 KavaRef 作为反射 API 强力驱动，**点击上方链接 star 这个项目**，你也可以优雅地使用它！
 
 ## 探索新版本
 
@@ -44,40 +44,41 @@
 | <img src="img-src/icon.png" width = "30" height = "30" alt="LOGO"/> | [YukiHook 2.x](https://github.com/HighCapable/YukiHookAPI/tree/2.x) |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|
 
-## 合作项目
+## 谁在使用
 
-以下是经过合作并稳定使用 `YukiHookAPI` 的项目。
+以下是正在使用 YukiHookAPI 的项目。
 
-| Repository                                                                      | Developer                                       |
-|---------------------------------------------------------------------------------|-------------------------------------------------|
-| [TSBattery](https://github.com/fankes/TSBattery)                                | [fankesyooni](https://github.com/fankes)        |
-| [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)                   | [fankesyooni](https://github.com/fankes)        |
-| [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)                   | [fankesyooni](https://github.com/fankes)        |
-| [自由屏幕旋转](https://github.com/Xposed-Modules-Repo/com.fankes.forcerotate)         | [fankesyooni](https://github.com/fankes)        |
-| [拒绝强制亮度](https://github.com/Xposed-Modules-Repo/com.fankes.refusebrightness)    | [fankesyooni](https://github.com/fankes)        |
-| [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)            | [fankesyooni](https://github.com/fankes)        |
-| [Enable WebView Debugging](https://github.com/WankkoRee/EnableWebViewDebugging) | [WankkoRee](https://github.com/WankkoRee)       |
-| [Fuck MIUI Gesture](https://github.com/HCGStudio/FuckMIUIGesture)               | [mahoshojoHCG](https://github.com/mahoshojoHCG) |
-| [MIUI遮罩进化](https://github.com/GSWXXN/RestoreSplashScreen)                       | [GSWXXN](https://github.com/GSWXXN)             |
-| [Color OS Installer Plus](https://github.com/NextAlone/ColorOSInstallerPlus)    | [NextAlone](https://github.com/NextAlone)       |
-| [Auto NFC](https://github.com/GSWXXN/AutoNFC)                                   | [GSWXXN](https://github.com/GSWXXN)             |
-| [不要竖屏](https://github.com/WankkoRee/Portrait2Landscape)                         | [WankkoRee](https://github.com/WankkoRee)       |
-| [QDReadHook](https://github.com/xihan123/QDReadHook)                            | [xihan123](https://github.com/xihan123)         |
-| [HXReadHook](https://github.com/xihan123/HXReadHook)                            | [xihan123](https://github.com/xihan123)         |
-| [WxRecordRead](https://github.com/pwh-pwh/wxrecordread)                         | [Coderpwh](https://github.com/pwh-pwh)          |
-| [FuckShake](https://github.com/pwh-pwh/fuck_shake)                              | [Coderpwh](https://github.com/pwh-pwh)          |
-| [MIUI更新进化](https://miup.utssg.xyz)                                              | [ZQDesigned](https://github.com/ZQDesigned)     |
-| [MIUI录屏进化](https://www.coolapk.com/apk/UTSSG.ZQDesigned.miuirecordercracker)    | [ZQDesigned](https://github.com/ZQDesigned)     |
-| [Fuck AD](https://github.com/hujiayucc/Fuck-AD)                                 | [hujiayucc](https://github.com/hujiayucc)       |
-| [最右强力去广告](https://github.com/kazutoiris/zuiyou-adfree)                          | [kazutoiris](https://github.com/kazutoiris)     |
-| [叮嗒出行强力去广告](https://github.com/kazutoiris/dingda-adfree)                        | [kazutoiris](https://github.com/kazutoiris)     |
-| [无限幻境](https://github.com/kazutoiris/infinite-illusion)                         | [kazutoiris](https://github.com/kazutoiris)     |
-| [HookGG](https://github.com/HdShare/HookGG)                                     | [HdShare](https://github.com/HdShare)           |
-| [OnePlusPlusLauncher](https://github.com/wizpizz/OnePlusPlusLauncher)           | [wizpizz](https://github.com/wizpizz)           |
-| [词幕](https://github.com/proify/lyricon)                                         | [Tomakino](https://github.com/proify)           |
+| Repository                                                                         | Developer                                       |
+|------------------------------------------------------------------------------------|-------------------------------------------------|
+| [TSBattery](https://github.com/fankes/TSBattery)                                   | [fankesyooni](https://github.com/fankes)        |
+| [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)                | [fankesyooni](https://github.com/fankes)        |
+| [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)                | [fankesyooni](https://github.com/fankes)        |
+| [自由屏幕旋转](https://github.com/Xposed-Modules-Repo/com.fankes.forcerotate)      | [fankesyooni](https://github.com/fankes)        |
+| [拒绝强制亮度](https://github.com/Xposed-Modules-Repo/com.fankes.refusebrightness) | [fankesyooni](https://github.com/fankes)        |
+| [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)               | [fankesyooni](https://github.com/fankes)        |
+| [Enable WebView Debugging](https://github.com/WankkoRee/EnableWebViewDebugging)    | [WankkoRee](https://github.com/WankkoRee)       |
+| [Fuck MIUI Gesture](https://github.com/HCGStudio/FuckMIUIGesture)                  | [mahoshojoHCG](https://github.com/mahoshojoHCG) |
+| [MIUI遮罩进化](https://github.com/GSWXXN/RestoreSplashScreen)                      | [GSWXXN](https://github.com/GSWXXN)             |
+| [Color OS Installer Plus](https://github.com/NextAlone/ColorOSInstallerPlus)       | [NextAlone](https://github.com/NextAlone)       |
+| [Auto NFC](https://github.com/GSWXXN/AutoNFC)                                      | [GSWXXN](https://github.com/GSWXXN)             |
+| [不要竖屏](https://github.com/WankkoRee/Portrait2Landscape)                        | [WankkoRee](https://github.com/WankkoRee)       |
+| [QDReadHook](https://github.com/xihan123/QDReadHook)                               | [xihan123](https://github.com/xihan123)         |
+| [HXReadHook](https://github.com/xihan123/HXReadHook)                               | [xihan123](https://github.com/xihan123)         |
+| [WxRecordRead](https://github.com/pwh-pwh/wxrecordread)                            | [Coderpwh](https://github.com/pwh-pwh)          |
+| [FuckShake](https://github.com/pwh-pwh/fuck_shake)                                 | [Coderpwh](https://github.com/pwh-pwh)          |
+| [MIUI更新进化](https://miup.utssg.xyz)                                             | [ZQDesigned](https://github.com/ZQDesigned)     |
+| [MIUI录屏进化](https://www.coolapk.com/apk/UTSSG.ZQDesigned.miuirecordercracker)   | [ZQDesigned](https://github.com/ZQDesigned)     |
+| [Fuck AD](https://github.com/hujiayucc/Fuck-AD)                                    | [hujiayucc](https://github.com/hujiayucc)       |
+| [最右强力去广告](https://github.com/kazutoiris/zuiyou-adfree)                      | [kazutoiris](https://github.com/kazutoiris)     |
+| [叮嗒出行强力去广告](https://github.com/kazutoiris/dingda-adfree)                  | [kazutoiris](https://github.com/kazutoiris)     |
+| [无限幻境](https://github.com/kazutoiris/infinite-illusion)                        | [kazutoiris](https://github.com/kazutoiris)     |
+| [HookGG](https://github.com/HdShare/HookGG)                                        | [HdShare](https://github.com/HdShare)           |
+| [OnePlusPlusLauncher](https://github.com/wizpizz/OnePlusPlusLauncher)              | [wizpizz](https://github.com/wizpizz)           |
+| [词幕](https://github.com/proify/lyricon)                                          | [Tomakino](https://github.com/proify)           |
+| [Bilibili_Innocent_Lab](https://github.com/jichuo1/Bilibili_Innocent_Lab)          | [jichuo1](https://github.com/jichuo1)           |
+| [LuckyTool](https://github.com/luckyzyx/LuckyTool)                                 | [luckyzyx](https://github.com/luckyzyx)         |
 
-你也在使用 `YukiHookAPI` 吗？快来 **PR** 将你的存储仓库添加到上方的列表 (
-私有仓库可以不需要注明网页链接)。
+你也在使用 YukiHookAPI 吗？快来 **PR** 将你的存储仓库添加到上方的列表 (私有仓库可以不需要注明网页链接)。
 
 ## 更多项目
 
@@ -91,7 +92,7 @@
 
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=HighCapable/YukiHookAPI&type=Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=HighCapable/YukiHookAPI&type=date&legend=top-left&sealed_token=cH7W7hRbOUCtuZy08alMZDm3XT4rAGJk-gWnsAEiainLb9d0pvJTYIUCLnhkVyVHMbE0RweCCTM_gn0Mr2UBwjhmbisZCRRxaF_NprdiB44vhtI-5bjaug)](https://www.star-history.com/?repos=HighCapable%2FYukiHookAPI&type=date&legend=top-left)
 
 ## 第三方开源使用声明
 

@@ -25,14 +25,10 @@ import com.highcapable.yukihookapi.hook.xposed.prefs.YukiHookPrefsBridge
 import java.io.Serializable
 
 /**
- * 键值对存储构造类
+ * Defines a typed key-value preference entry.
  *
- * 这个类是对 [YukiHookPrefsBridge] 的一个扩展用法
- *
- * 详情请参考 [API 文档 - PrefsData](https://highcapable.github.io/YukiHookAPI/zh-cn/api/public/com/highcapable/yukihookapi/hook/xposed/prefs/data/PrefsData)
- *
- * For English version, see [API Document - PrefsData](https://highcapable.github.io/YukiHookAPI/en/api/public/com/highcapable/yukihookapi/hook/xposed/prefs/data/PrefsData)
- * @param key 键值
- * @param value 默认值
+ * This class provides an extended usage pattern for [YukiHookPrefsBridge].
+ * @param key the preference key.
+ * @param value the default value.
  */
 data class PrefsData<T>(var key: String, var value: T) : Serializable
